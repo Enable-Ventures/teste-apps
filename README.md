@@ -1,5 +1,5 @@
-# Teste para desenvolvedores mobile Catho
-Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Catho.
+# Teste para desenvolvedores mobile Enable Ventures
+Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Enable Ventures.
 
 ## Desafio
 Desenvolver uma tela de aplicativo seguindo o layout proposto como referência e uma api mockada para carregar os dados.
@@ -34,9 +34,6 @@ Você pode utilizar ele dentro do aplicativo ou carregá-las utilizando o host d
 
 ## Melhorias
 Realize o teste com os recursos disponíveis, porém anote e nos envie quaisquer sugestão de melhoria que julgar adequadas e por que deveríamos implementá-las.
-
-## Como aplicar
-Você deve criar um repositório privado no GitHub.com e adicionar o usuário [testecatho](https://github.com/testecatho) como colaborador do projeto. Ao finalizar o teste, por favor, envie-nos o link do repositório pelo e-mail testecatho@catho.com. Você utilizará esse projeto apenas para rodar as apis.
 
 Boa Sorte!
 
