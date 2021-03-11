@@ -1,5 +1,5 @@
 # Teste para desenvolvedores mobile Enable Ventures
-Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Enable Ventures baseado no teste da Catho.
+Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Enable Ventures baseado no teste da ![Catho](https://github.com/catho/teste-apps).
 
 ## Desafio
 Desenvolver uma tela de aplicativo seguindo o layout proposto como referência e uma api mockada para carregar os dados.
@@ -7,7 +7,7 @@ Desenvolver uma tela de aplicativo seguindo o layout proposto como referência e
 ### Layout
 O seu aplicativo deve seguir o layout abaixo como referência.
 
-![Layout proposto](/HOME.png)
+![Layout proposto](/HOME-Catcho.png)
 
 #### Assets
 Os assets estão disponíveis na pasta /api/assets/.
