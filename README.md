@@ -1,5 +1,5 @@
 # Teste para desenvolvedores mobile Enable Ventures
-Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Enable Ventures.
+Este é o teste técnico para processo seletivo para trabalhar com desenvolvimento de apps mobile na Enable Ventures baseado no teste da Catho.
 
 ## Desafio
 Desenvolver uma tela de aplicativo seguindo o layout proposto como referência e uma api mockada para carregar os dados.
